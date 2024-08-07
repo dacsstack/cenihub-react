@@ -11,7 +11,7 @@ export const Footer = () => {
         . All Rights Reserved.
       </span>
       <ul className="flex flex-wrap items-center mt-3 text-sm text-gray-500 dark:text-gray-400 sm:mt-0">
-        <li>
+        {/*  <li>
           <a
             href="/"
             target="_blank"
@@ -50,7 +50,7 @@ export const Footer = () => {
           >
             Youtube
           </a>
-        </li>
+        </li> */}
         <li>
           <a
             href="/"
