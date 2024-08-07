@@ -53,12 +53,12 @@ export const Footer = () => {
         </li> */}
         <li>
           <a
-            href="/"
+            href="https://github.com/dacsstack/cenihub-react"
             target="_blank"
             rel="noreferrer"
             className="hover:underline"
           >
-            Github
+            GitHub
           </a>
         </li>
       </ul>
